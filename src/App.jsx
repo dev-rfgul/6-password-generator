@@ -106,3 +106,4 @@ export default App;
 
 
 // adding a comment to check wether the changes are reflected in the git  commit counter or not
+// adding a comment to check wether the changes are reflected in the git  commit counter or not
